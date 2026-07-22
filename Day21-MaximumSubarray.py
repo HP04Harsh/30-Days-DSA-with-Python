@@ -4,4 +4,4 @@ class Solution:
         for i in nums:
             curr = max(i, curr+i)
             res = max(res,curr)
-        return res            
+        return res            D
