@@ -11,7 +11,7 @@ To build strong problem-solving skills, understand core computer science concept
 * **Language:** Python 3
 
 ## 👤 Author
-* **Harsh Pardhi** - https://github.com/HP04Harsh/30-Days-DSA-with-Python
+* **Harsh Pardhi_Software Engineer** - https://github.com/HP04Harsh/30-Days-DSA-with-Python
 
 ---
 *Feel free to star ⭐ the repository if you find it helpful!*
